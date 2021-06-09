@@ -69,7 +69,7 @@ node index.js command=get-mnemonic mnemonic='you mnemonic you wish to use'
 
 #or
 
-Node index.js command=get-mnemonic # this will use the default main mnemonic from .env if set
+node index.js command=get-mnemonic # this will use the default main mnemonic from .env if set
 ```
 
 **Same set of arguments applies to all the other commands, so we won't repeat them.**
