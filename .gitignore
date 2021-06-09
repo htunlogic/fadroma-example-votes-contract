@@ -1,5 +1,10 @@
 /target
+/package-lock.json
 Cargo.lock
 contract.wasm
 contract.wasm.gz
 hash.txt
+node_modules
+.env
+.contract_lock
+accounts.json

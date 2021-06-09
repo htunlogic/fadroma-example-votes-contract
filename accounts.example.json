@@ -1,0 +1,30 @@
+[
+    {
+        "name": "a",
+        "type": "local",
+        "address": "secret17tjvcn9fujz9yv7zg4a02sey4exau40lqdu0r7",
+        "pubkey": "secretpub1addwnpepq2qlywmjqsswh8m7kxy6x8quvyyu47rddcchlm6zfn4c6d03x2jw7emvwkr",
+        "mnemonic": "canoe argue shrimp bundle drip neglect odor ribbon method spice stick pilot produce actual recycle deposit year crawl praise royal enlist option scene spy"
+    },
+    {
+        "name": "b",
+        "type": "local",
+        "address": "secret1uv2ghy6zrlk5gz7z0dqu7tpvecp43hyr4s940t",
+        "pubkey": "secretpub1addwnpepq0vn9mnwr24cfk4t0wkn4sxwzsgcklr9t4uc362k9nap3safutwgqeyg4gy",
+        "mnemonic": "bounce orphan vicious end identify universe excess miss random bench coconut curious chuckle fitness clean space damp bicycle legend quick hood sphere blur thing"
+    },
+    {
+        "name": "c",
+        "type": "local",
+        "address": "secret1lrmyc8fx940r4yryl39jnnx4cjgxxp54sz6k0t",
+        "pubkey": "secretpub1addwnpepq2e4h4f458ryszqhqh6xjzwtm7gnm53l8c7dxxs82qlsudqshq0c7ff5vg6",
+        "mnemonic": "element dial search ticket feed lounge gasp wide uphold reflect hand lunch primary swamp wage vessel riot modify dinosaur laundry segment purpose secret asthma"
+    },
+    {
+        "name": "d",
+        "type": "local",
+        "address": "secret1yy9yun8vuhcsrm3v04a43vt7qfcleh2s3pm87c",
+        "pubkey": "secretpub1addwnpepq2l0gs86z0c0qqnp0pe0r5f0ucvt6tlmzhycxaaen3xq5xschktykg92fj5",
+        "mnemonic": "credit trash wealth safe confirm effort orbit word salon hurdle tape one electric try hammer trophy empty regular under disagree beauty menu forum hello"
+    }
+]

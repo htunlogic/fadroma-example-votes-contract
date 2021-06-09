@@ -1,0 +1,23 @@
+{
+  "name": "votes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "./fadroma",
+    "./fadroma/scrt-client",
+    "./fadroma/scrt-ops"
+  ],
+  "type": "module",
+  "author": "Tibor Hudik <tibor@barrage.net> (https://barrage.net)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "felony": "^0.4.0",
+    "gunzip-file": "^0.1.1",
+    "secretjs": "^0.11.0"
+  }
+}
